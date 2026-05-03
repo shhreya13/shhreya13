@@ -6,7 +6,7 @@
 
 ### 💻 Full Stack Developer | 🤖 ML Enthusiast | 🎮 Game Dev Learner 
 
-I enjoy working on full‑stack projects, AI/ML solutions, UI/UX designs, and game‑based applications.
+I enjoy working on full‑stack projects, AI/ML solutions and game‑based applications.
 
 </div>
 
