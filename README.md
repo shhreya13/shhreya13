@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Shreya V
 
-### 💻 Full Stack Developer | 🤖 ML Enthusiast | 🎮 Game Dev Learner | 🎨 UI/UX Designer
+### 💻 Full Stack Developer | 🤖 ML Enthusiast | 🎮 Game Dev Learner 
 
 I enjoy working on full‑stack projects, AI/ML solutions, UI/UX designs, and game‑based applications.
 
@@ -17,7 +17,7 @@ I enjoy working on full‑stack projects, AI/ML solutions, UI/UX designs, and ga
 ```js
 const shreya = {
   role: "Full Stack Developer",
-  interests: ["Web Development", "Machine Learning", "UI/UX", "Gaming"],
+  interests: ["Web Development", "Machine Learning", "Gaming"],
   currentlyLearning: ["React", "Backend Development", "Machine Learning", "Unity"],
   goal: "To build impactful products that solve real‑world problems",
 };
