@@ -104,13 +104,13 @@ A project focused on tracking and managing crisis‑related information for bett
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shhreya13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shhreya13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhreya13&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhreya13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shhreya13&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=shhreya13&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
